@@ -1,13 +1,7 @@
 # 👋 Hi there, I'm Carlos  
 
 💻 **Back-End Developer** passionate about building efficient, scalable, and secure systems.  
-A
 
-B
-
-C
-
-D
 ---
 
 ### 🚀 About Me
