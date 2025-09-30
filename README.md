@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,php,python,docker,git,linux,mysql,mint)](https://skillicons.dev)
 
 -----------------------
-## 4.6 Github stats
+## Github stats
 
 Just replace your user name in the code:
 
