@@ -35,3 +35,8 @@ More information can be found in the [LINK](https://github.com/cabesaE/github-re
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-beltran-sanz)  
 - 📧 cabesa@edem.es  
 
+---
+
+### 🌐 See what i have done
+- [AI Brain Bites](http://aibrainbites.com/)
+
